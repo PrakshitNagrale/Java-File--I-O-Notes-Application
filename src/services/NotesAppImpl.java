@@ -10,8 +10,7 @@ public class NotesAppImpl implements NotesApp{
     FileWriter fw = null;
 
     BufferedReader br = null;
-
-
+                //file path to store the notes
     String notesFile = "/Users/prakshitnagrale/Documents/My Work/Prakshit doc/Elevate_Labs_Internship/NotesApp.txt";
 
     @Override
